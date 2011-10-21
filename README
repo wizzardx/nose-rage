@@ -1,0 +1,8 @@
+Implements PEP712 for Python Nose. Displays FFFFFFFUUUU for errors.
+
+PEP712: http://www.revsys.com/blog/2011/oct/20/pep712-proposal-make-unittest2-more-accurate/
+
+I got the idea from this Reddit thread, where someone made a py.test plugin:
+
+http://www.reddit.com/r/Python/comments/lj34l/pep712_proposal_to_make_unittest2_more_accurate/
+
